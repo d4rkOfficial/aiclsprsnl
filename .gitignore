@@ -7,3 +7,4 @@ pages
 .prettierrc.json
 index.md
 package*.json
+.vitepress
