@@ -3,8 +3,8 @@ node_modules
 .tmp
 imgs
 videos
-pages
 .prettierrc.json
 index.md
 package*.json
 .vitepress
+pages/*.md
